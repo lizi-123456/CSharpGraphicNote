@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01第一章()", "01第一章()", "{D85E2BF5-C40F-4FBB-B025-AE794581D67F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02第二章()", "02第二章()", "{381AF218-95E6-4205-93D7-957A80690D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03第三章()", "03第三章()", "{A54C6EC0-271B-4445-923F-EDB38494273E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.第四章()", "04.第四章()", "{6A0AF721-E241-497B-894A-1EE9DA4F8F05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05第五章()", "05第五章()", "{388D118E-741D-4330-BEAF-5CDA6DA7C93E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06第六章()", "06第六章()", "{44ADF28B-4028-485D-92A6-BB1DE16686BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07第七章()", "07第七章()", "{DE65F617-9745-4E45-BCC7-40D9E991A8B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08第八章()", "08第八章()", "{1DED4076-7944-4B3E-8B8C-1A40B04B471B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09第九章()", "09第九章()", "{90D0D9A8-FAE2-4579-9BE4-D6A6560D8875}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10第十章()", "10第十章()", "{18C5F435-F2C7-4391-ADAA-5C56A39E423B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11第十一章()", "11第十一章()", "{83426CC9-4692-4C3C-B1CF-86B6E80B3162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.01", "01.01", "{EFD0951C-BF41-478C-8E19-1C8DC4410D00}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.01.01", "01.01.01", "{D993DADA-32D3-4E39-B300-3615116B17F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EFD0951C-BF41-478C-8E19-1C8DC4410D00} = {D85E2BF5-C40F-4FBB-B025-AE794581D67F}
+		{D993DADA-32D3-4E39-B300-3615116B17F0} = {EFD0951C-BF41-478C-8E19-1C8DC4410D00}
+		{BB0A6463-8CB7-4F54-9945-DC3C3BE88B95} = {D993DADA-32D3-4E39-B300-3615116B17F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B7AFD3E-5233-4155-A048-DD420B70ED00}
+	EndGlobalSection
+EndGlobal
